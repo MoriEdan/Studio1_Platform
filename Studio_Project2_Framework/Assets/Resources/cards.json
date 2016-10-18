@@ -1,0 +1,422 @@
+[
+    {
+        "code": "42K7",
+        "name": "\"Legitimate\" Businessperson (Fixer)",
+        "type": "identity",
+        "weights": {
+            "city_quality": 0,
+            "contraband": 2,
+            "reception": -1,
+            "card": null,
+            "bonus": null
+        }
+    },
+    {
+        "code": "5T3J",
+        "name": "Wild Card",
+        "type": "response",
+        "weights": {
+            "city_quality": 2,
+            "contraband": 2,
+            "reception": -2,
+            "card": "QLQD",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "6V96",
+        "name": "Mudamuda's finest, truly.",
+        "type": "response",
+        "weights": {
+            "city_quality": 2,
+            "contraband": -2,
+            "reception": -1,
+            "card": "RCW5",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "7DEK",
+        "name": "It strengthens the economy.",
+        "type": "response",
+        "weights": {
+            "city_quality": -1,
+            "contraband": 2,
+            "reception": -1,
+            "card": "WKEF",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "8RCM",
+        "name": "Mayor under criticism for promotion of illegal brothel",
+        "type": "incident",
+        "weights": {
+            "city_quality": -1,
+            "contraband": 1,
+            "reception": -2,
+            "card": "PDDH",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "98ML",
+        "name": "Divert attention.",
+        "type": "response",
+        "weights": {
+            "city_quality": 0,
+            "contraband": 0,
+            "reception": -1,
+            "card": "8RCM",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "9PC8",
+        "name": "Mayor filmed during racial outburst",
+        "type": "incident",
+        "weights": {
+            "city_quality": -1,
+            "contraband": 0,
+            "reception": -3,
+            "card": "YGBQ",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "DA5U",
+        "name": "Acknowledge.",
+        "type": "response",
+        "weights": {
+            "city_quality": 1,
+            "contraband": 0,
+            "reception": 1,
+            "card": "RCW5",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "FDEM",
+        "name": "Benefits vs. Cost of kidneys & livers",
+        "type": "response",
+        "weights": {
+            "city_quality": -1,
+            "contraband": 2,
+            "reception": -2,
+            "card": "LJHT",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "GFWG",
+        "name": "What does that have to do with me?",
+        "type": "response",
+        "weights": {
+            "city_quality": 0,
+            "contraband": 1,
+            "reception": 0,
+            "card": "JKND",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "GJVS",
+        "name": "Two sides.",
+        "type": "response",
+        "weights": {
+            "city_quality": 1,
+            "contraband": 0,
+            "reception": 0,
+            "card": "WCTF",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "GP5C",
+        "name": "Crooked Cop",
+        "type": "identity",
+        "weights": {
+            "city_quality": -2,
+            "contraband": 2,
+            "reception": -1,
+            "card": null,
+            "bonus": null
+        }
+    },
+    {
+        "code": "HZKZ",
+        "name": "Mayor under scrutiny for reallocating town budget.",
+        "type": "incident",
+        "weights": {
+            "city_quality": 0,
+            "contraband": 1,
+            "reception": -2,
+            "card": "XFYE",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "JKND",
+        "name": "Crime rates show illicit drug use is at all time High in Mudamuda",
+        "type": "incident",
+        "weights": {
+            "city_quality": -3,
+            "contraband": 3,
+            "reception": -1,
+            "card": "42K7",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "KWLQ",
+        "name": "No comment.",
+        "type": "response",
+        "weights": {
+            "city_quality": 0,
+            "contraband": 0,
+            "reception": 0,
+            "card": "N28Q",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "LJHT",
+        "name": "Mayor has gambling problem; City Hall up as collatoral",
+        "type": "incident",
+        "weights": {
+            "city_quality": -2,
+            "contraband": -1,
+            "reception": -2,
+            "card": "GP5C",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "LKJU",
+        "name": "I do not recall.",
+        "type": "response",
+        "weights": {
+            "city_quality": 1,
+            "contraband": 0,
+            "reception": -1,
+            "card": "HZKZ",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "LPHE",
+        "name": "Ban drinking and gambling",
+        "type": "response",
+        "weights": {
+            "city_quality": -1,
+            "contraband": -2,
+            "reception": 1,
+            "card": "LJHT",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "N28Q",
+        "name": "Allegations of vote fixing in recent election",
+        "type": "incident",
+        "weights": {
+            "city_quality": -1,
+            "contraband": 0,
+            "reception": -3,
+            "card": "42K7",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "NBWV",
+        "name": "This great town, Mudamuda",
+        "type": "response",
+        "weights": {
+            "city_quality": 2,
+            "contraband": -2,
+            "reception": 1,
+            "card": "QLQD",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "PDDH",
+        "name": "Pimp",
+        "type": "identity",
+        "weights": {
+            "city_quality": -1,
+            "contraband": 0,
+            "reception": 2,
+            "card": null,
+            "bonus": null
+        }
+    },
+    {
+        "code": "QLQD",
+        "name": "Mayor pushing dysfunctional town for 'Town of The Year'",
+        "type": "incident",
+        "weights": {
+            "city_quality": 3,
+            "contraband": 0,
+            "reception": 1,
+            "card": "YGBQ",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "RCW5",
+        "name": "Mudamuda PD caught in prostitution scandal",
+        "type": "incident",
+        "weights": {
+            "city_quality": -2,
+            "contraband": 0,
+            "reception": -1,
+            "card": "PDDH",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "RDHU",
+        "name": "Stop drugs.",
+        "type": "response",
+        "weights": {
+            "city_quality": 2,
+            "contraband": 2,
+            "reception": 2,
+            "card": "JKND",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "SHY8",
+        "name": "All y'all suck.",
+        "type": "response",
+        "weights": {
+            "city_quality": 0,
+            "contraband": 0,
+            "reception": -2,
+            "card": "9PC8",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "V4S2",
+        "name": "At least it's not as bad as the drugs.",
+        "type": "response",
+        "weights": {
+            "city_quality": -2,
+            "contraband": 1,
+            "reception": 0,
+            "card": "HZKZ",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "VF2Y",
+        "name": "Direct Address",
+        "type": "response",
+        "weights": {
+            "city_quality": -2,
+            "contraband": -1,
+            "reception": 2,
+            "card": "WKEF",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "WCTF",
+        "name": "Accusations of police corruption correlate with decreased crime rates",
+        "type": "incident",
+        "weights": {
+            "city_quality": 3,
+            "contraband": 2,
+            "reception": -1,
+            "card": "GP5C",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "WK5H",
+        "name": "Set the record straight.",
+        "type": "response",
+        "weights": {
+            "city_quality": 0,
+            "contraband": 0,
+            "reception": 1,
+            "card": "8RCM",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "WKEF",
+        "name": "PTA tackling drug problem in schools",
+        "type": "incident",
+        "weights": {
+            "city_quality": 1,
+            "contraband": -1,
+            "reception": 0,
+            "card": "XFYE",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "X5AA",
+        "name": "\"Remember that other great thing?\"",
+        "type": "response",
+        "weights": {
+            "city_quality": 0,
+            "contraband": -1,
+            "reception": 2,
+            "card": "9PC8",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "XEET",
+        "name": "Take the blame.",
+        "type": "response",
+        "weights": {
+            "city_quality": -2,
+            "contraband": -1,
+            "reception": -2,
+            "card": "N28Q",
+            "bonus": 0
+        }
+    },
+    {
+        "code": "XFYE",
+        "name": "PTA Spokesperson",
+        "type": "identity",
+        "weights": {
+            "city_quality": 2,
+            "contraband": -3,
+            "reception": -2,
+            "card": null,
+            "bonus": null
+        }
+    },
+    {
+        "code": "YEXX",
+        "name": "Whatever works",
+        "type": "response",
+        "weights": {
+            "city_quality": -1,
+            "contraband": 2,
+            "reception": 2,
+            "card": "WCTF",
+            "bonus": 1
+        }
+    },
+    {
+        "code": "YGBQ",
+        "name": "Communist Sleeper Agent",
+        "type": "identity",
+        "weights": {
+            "city_quality": 3,
+            "contraband": -1,
+            "reception": 3,
+            "card": null,
+            "bonus": null
+        }
+    }
+]
